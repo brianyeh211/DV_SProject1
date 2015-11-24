@@ -16,19 +16,6 @@ require("ggplot2")
 #Dataset
 ###Counts of births by Age of Mother
 
-##Barchart
-###Age vs Count for all years (1960-2013)
-![AgeVCount](../AgeVCount.jpg)
+##Barchart, ScatterPlot, and CrossTab
 
-##ScatterPlot
-###Year vs Count for all age groups
-![YearVCount](../YearVCount.jpg)
-
-##CrossTab
-###Year vs Age
-![YearVAge](../YearVAge.jpg)
-
-##Blending Data
-###Count of Babies born vs Growth rate of Disposible Income (Joined on Year)
-![BlendingData](../BlendingData.jpg)
-
+[Shiny App](https://by2578.shinyapps.io/02Shiny)
